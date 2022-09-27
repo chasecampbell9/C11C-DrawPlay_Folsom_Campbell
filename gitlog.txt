@@ -1,0 +1,7 @@
+ed9c30f	Chase Campbell	Tue Sep 27 11:57:22 2022 -0600	circle mouth
+d4f294b	Luke Folsom	Tue Sep 27 11:55:57 2022 -0600	Made the mouth blue
+f6de075	Chase Campbell	Tue Sep 27 11:53:40 2022 -0600	moved cat
+8f41a52	Luke Folsom	Tue Sep 27 11:46:37 2022 -0600	Changed the meow lettering to Phil the cat
+608c0ee	Chase Campbell	Tue Sep 27 11:43:41 2022 -0600	blue big eye
+769f11c	Luke Folsom	Tue Sep 27 11:40:00 2022 -0600	Changed head color to orange
+27f3e2b	Chase Campbell	Tue Sep 27 11:24:00 2022 -0600	Initial commit
